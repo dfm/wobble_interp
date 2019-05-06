@@ -1,0 +1,1 @@
+recursive-include wobble_interp/ *.so
